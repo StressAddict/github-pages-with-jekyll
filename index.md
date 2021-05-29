@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "GitHub Pages With Jekyll"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Using Markdown and Github pages as well as other related open source software makes front end development quite easy
