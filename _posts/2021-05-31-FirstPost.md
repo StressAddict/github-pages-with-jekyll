@@ -1,7 +1,6 @@
 ---
 Title: "Twitch For The Boys"
-Date: 2021-05-31
-
+date: 2021-05-31
 ---
 
 * Shooters
@@ -14,4 +13,3 @@ Date: 2021-05-31
     2. General Sam
     3. Lirik
     4. XQC
-  
