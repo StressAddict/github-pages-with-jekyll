@@ -1,7 +1,8 @@
 ---
-Title: "Twitch For The Boys"
-date: 2021-05-31
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
+
 
 * Shooters
     1. HuskKers
